@@ -24,6 +24,8 @@ div.style.backgroundColor = "pink";
 const h1Child = document.createElement("h1");
 h1Child.textContent = "I'm in a Div";
 
+//Create a <p> element that says "ME TOO!"
+
 const pChild = document.createElement("p");
 pChild.textContent = "ME TOO!";
 
